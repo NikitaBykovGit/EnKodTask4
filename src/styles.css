@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app__container {
+    margin: 38px 52px;
+    width: 528px;
+}
+
+.app__container tui-input {
+    margin-top: 24px;
+}
+
+.app__container_res {
+    margin-top: 24px;
+}
